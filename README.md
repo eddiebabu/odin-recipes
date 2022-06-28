@@ -1,1 +1,1 @@
-# odin-recipes
+This project is trying to teach us how to use the basics of HTMl that we learned this includes lists the head and body and links and images 
